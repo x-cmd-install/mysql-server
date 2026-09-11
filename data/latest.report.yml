@@ -2,24 +2,24 @@ about:
   description: "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
   license: NOASSERTION
   homepage: http://www.mysql.com/
-  head: e174239
+  head: fcf22d3
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:22:42Z
+  collectedAt: 2026-09-11T20:56:03Z
 timeline:
   created: 2014-09-26
-  lastCommit: 2026-09-01
+  lastCommit: 2026-09-11
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 12422
+  star: 12423
   watcher: 555
-  fork: 4353
+  fork: 4352
   release: 0
-  contributor: 144
+  contributor: 145
   pullRequest: 703
   issue: 32
 language:
@@ -76,7 +76,7 @@ recent:
     openPR: 17
     closedIssue: 2
     openIssue: 7
-    commit: 106
+    commit: 110
   last60d:
     since: 2026-07-13
     release: 0
@@ -84,7 +84,7 @@ recent:
     openPR: 21
     closedIssue: 4
     openIssue: 16
-    commit: 267
+    commit: 271
   last90d:
     since: 2026-06-13
     release: 0
@@ -92,7 +92,7 @@ recent:
     openPR: 22
     closedIssue: 5
     openIssue: 27
-    commit: 626
+    commit: 630
   last180d:
     since: 2026-03-15
     release: 0
@@ -100,7 +100,7 @@ recent:
     openPR: 23
     closedIssue: 5
     openIssue: 27
-    commit: 1330
+    commit: 1334
   last360d:
     since: 2025-09-16
     release: 0
@@ -108,7 +108,7 @@ recent:
     openPR: 23
     closedIssue: 5
     openIssue: 27
-    commit: 1961
+    commit: 1965
   last720d:
     since: 2024-09-21
     release: 0
@@ -116,17 +116,17 @@ recent:
     openPR: 23
     closedIssue: 5
     openIssue: 27
-    commit: 5934
+    commit: 5938
 total:
   release: 0
   mergedPR: 1
   openPR: 23
   closedIssue: 5
   openIssue: 27
-  commit: 191044
+  commit: 191048
 ---
 path: /home/runner/.x-repo/github.com/mysql/mysql-server
-collectedAt: 2026-09-11T00:34:13Z
+collectedAt: 2026-09-11T21:06:38Z
 loc:
   Cpp:
     code: 2718138
