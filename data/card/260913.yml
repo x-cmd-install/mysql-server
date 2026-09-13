@@ -649,3 +649,4 @@ checks:
       - 'Info:   0 out of   1 downloadThenRun dependencies pinned'
       - 'Info:   0 out of   1 npmCommand dependencies pinned'
       - 'Info:   0 out of   4 nugetCommand dependencies pinned'
+---
