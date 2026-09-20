@@ -4,7 +4,7 @@
 
 MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 
-![mysql-server](https://repo.x-cmd.io/mysql-server.svg?lang=zh)
+[![x-cmd/install — mysql-server Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mysql-server.svg?lang=zh)](https://x-cmd.com/install/mysql-server)
 
 ## 安装
 
@@ -26,13 +26,13 @@ x install mysql-server
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.8 / 10**
+总评分: **6.5 / 10**
 
 评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -42,22 +42,22 @@ x install mysql-server
 
 ## 流行度
 
-- **Star**: 12,425 · **Fork**: 4,358 · **开放 issue**: 38 · **贡献者**: 145
+- **Star**: 12,433 · **Fork**: 4,359 · **开放 issue**: 39 · **贡献者**: 144
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 1 · **开放 PR**: 23 · **已关闭 issue**: 6 · **开放 issue**: 32 · **提交数**: 191048
+- **发布数**: 0 · **已合并 PR**: 1 · **开放 PR**: 27 · **已关闭 issue**: 6 · **开放 issue**: 33 · **提交数**: 191048
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 1 | 15 | 3 | 10 | 80 |
-| last60d | 2026-07-17 | 0 | 1 | 20 | 5 | 20 | 251 |
-| 90d | 2026-06-17 | 0 | 1 | 22 | 6 | 32 | 532 |
-| last180d | 2026-03-19 | 0 | 1 | 23 | 6 | 32 | 1253 |
-| 360d | 2025-09-20 | 0 | 1 | 23 | 6 | 32 | 1924 |
-| last720d | 2024-09-25 | 0 | 1 | 23 | 6 | 32 | 5904 |
+| 30d | 2026-08-21 | 0 | 1 | 16 | 3 | 11 | 19 |
+| last60d | 2026-07-22 | 0 | 1 | 24 | 4 | 18 | 217 |
+| 90d | 2026-06-22 | 0 | 1 | 25 | 5 | 28 | 447 |
+| last180d | 2026-03-24 | 0 | 1 | 27 | 6 | 33 | 1195 |
+| 360d | 2025-09-25 | 0 | 1 | 27 | 6 | 33 | 1872 |
+| last720d | 2024-09-30 | 0 | 1 | 27 | 6 | 33 | 5867 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ mysql-server 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T05:36:01Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:34:05Z._
