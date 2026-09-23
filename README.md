@@ -4,7 +4,7 @@
 
 MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 
-[![x-cmd/install — mysql-server Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mysql-server.svg)](https://x-cmd.com/install/mysql-server)
+[![x-cmd/install — mysql-server Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mysql-server.svg)](https://x-cmd.com/install/mysql-server)
 
 ## Install
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,433 · **Forks**: 4,360 · **Open issues**: 39 · **Contributors**: 144
+- **Stars**: 12,435 · **Forks**: 4,359 · **Open issues**: 42 · **Contributors**: 144
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 34 · **Closed issues**: 6 · **Open issues**: 33 · **Commits**: 191048
+- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 37 · **Closed issues**: 6 · **Open issues**: 36 · **Commits**: 191048
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 1 | 23 | 3 | 11 | 19 |
-| last60d | 2026-07-23 | 0 | 1 | 31 | 4 | 17 | 217 |
-| 90d | 2026-06-23 | 0 | 1 | 32 | 5 | 28 | 447 |
-| last180d | 2026-03-25 | 0 | 1 | 34 | 6 | 33 | 1195 |
-| 360d | 2025-09-26 | 0 | 1 | 34 | 6 | 33 | 1872 |
-| last720d | 2024-10-01 | 0 | 1 | 34 | 6 | 33 | 5865 |
+| 30d | 2026-08-24 | 0 | 0 | 25 | 3 | 14 | 19 |
+| last60d | 2026-07-25 | 0 | 1 | 34 | 4 | 20 | 217 |
+| 90d | 2026-06-25 | 0 | 1 | 35 | 5 | 31 | 447 |
+| last180d | 2026-03-27 | 0 | 1 | 37 | 6 | 36 | 1195 |
+| 360d | 2025-09-28 | 0 | 1 | 37 | 6 | 36 | 1872 |
+| last720d | 2024-10-03 | 0 | 1 | 37 | 6 | 36 | 5856 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for mysql-server lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:29:36Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:33:42Z._

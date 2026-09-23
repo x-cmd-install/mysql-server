@@ -4,7 +4,7 @@
 
 MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 
-[![x-cmd/install — mysql-server Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mysql-server.svg?lang=zh)](https://x-cmd.com/install/mysql-server)
+[![x-cmd/install — mysql-server Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mysql-server.svg?lang=zh)](https://x-cmd.com/install/mysql-server)
 
 ## 安装
 
@@ -42,22 +42,22 @@ x install mysql-server
 
 ## 流行度
 
-- **Star**: 12,433 · **Fork**: 4,360 · **开放 issue**: 39 · **贡献者**: 144
+- **Star**: 12,435 · **Fork**: 4,359 · **开放 issue**: 42 · **贡献者**: 144
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 1 · **开放 PR**: 34 · **已关闭 issue**: 6 · **开放 issue**: 33 · **提交数**: 191048
+- **发布数**: 0 · **已合并 PR**: 1 · **开放 PR**: 37 · **已关闭 issue**: 6 · **开放 issue**: 36 · **提交数**: 191048
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 1 | 23 | 3 | 11 | 19 |
-| last60d | 2026-07-23 | 0 | 1 | 31 | 4 | 17 | 217 |
-| 90d | 2026-06-23 | 0 | 1 | 32 | 5 | 28 | 447 |
-| last180d | 2026-03-25 | 0 | 1 | 34 | 6 | 33 | 1195 |
-| 360d | 2025-09-26 | 0 | 1 | 34 | 6 | 33 | 1872 |
-| last720d | 2024-10-01 | 0 | 1 | 34 | 6 | 33 | 5865 |
+| 30d | 2026-08-24 | 0 | 0 | 25 | 3 | 14 | 19 |
+| last60d | 2026-07-25 | 0 | 1 | 34 | 4 | 20 | 217 |
+| 90d | 2026-06-25 | 0 | 1 | 35 | 5 | 31 | 447 |
+| last180d | 2026-03-27 | 0 | 1 | 37 | 6 | 36 | 1195 |
+| 360d | 2025-09-28 | 0 | 1 | 37 | 6 | 36 | 1872 |
+| last720d | 2024-10-03 | 0 | 1 | 37 | 6 | 36 | 5856 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ mysql-server 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T05:29:37Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:33:44Z._
