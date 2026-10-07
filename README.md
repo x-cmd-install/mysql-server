@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,440 · **Forks**: 4,363 · **Open issues**: 56 · **Contributors**: 144
+- **Stars**: 12,441 · **Forks**: 4,363 · **Open issues**: 58 · **Contributors**: 144
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 59 · **Closed issues**: 19 · **Open issues**: 37 · **Commits**: 191050
+- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 60 · **Closed issues**: 19 · **Open issues**: 39 · **Commits**: 191050
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 0 | 45 | 14 | 13 | 2 |
-| last60d | 2026-08-07 | 0 | 1 | 55 | 17 | 17 | 132 |
-| 90d | 2026-07-08 | 0 | 1 | 59 | 18 | 26 | 302 |
-| last180d | 2026-04-09 | 0 | 1 | 59 | 19 | 37 | 1091 |
-| 360d | 2025-10-11 | 0 | 1 | 59 | 19 | 37 | 1839 |
-| last720d | 2024-10-16 | 0 | 1 | 59 | 19 | 37 | 5779 |
+| 30d | 2026-09-07 | 0 | 0 | 45 | 14 | 14 | 2 |
+| last60d | 2026-08-08 | 0 | 1 | 56 | 17 | 18 | 132 |
+| 90d | 2026-07-09 | 0 | 1 | 60 | 18 | 27 | 302 |
+| last180d | 2026-04-10 | 0 | 1 | 60 | 19 | 39 | 1091 |
+| 360d | 2025-10-12 | 0 | 1 | 60 | 19 | 39 | 1839 |
+| last720d | 2024-10-17 | 0 | 1 | 60 | 19 | 39 | 5762 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for mysql-server lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:55:51Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:21:24Z._
