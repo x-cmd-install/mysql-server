@@ -14,14 +14,14 @@ x install mysql-server
 
 ## Code insight
 
-Total: **7,475,164** lines of code across **31859** files in the top 5 languages.
+Total: **7,643,234** lines of code across **32867** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 2,718,138 | 672,012 | 463,979 | 6032 |
-| CppHeader | 2,502,148 | 573,672 | 449,299 | 16205 |
-| CHeader | 963,658 | 628,048 | 189,942 | 6842 |
-| Bitbake | 295,528 | 45,817 | 44,654 | 2212 |
+| Cpp | 2,742,467 | 679,213 | 467,999 | 6134 |
+| CppHeader | 2,638,688 | 599,601 | 479,431 | 16982 |
+| CHeader | 968,508 | 631,875 | 191,290 | 6944 |
+| Bitbake | 296,807 | 46,008 | 44,861 | 2239 |
 | C | 267,474 | 52,834 | 42,870 | 568 |
 
 ## OpenSSF Scorecard
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,472 · **Forks**: 4,395 · **Open issues**: 78 · **Contributors**: 144
+- **Stars**: 12,471 · **Forks**: 4,401 · **Open issues**: 79 · **Contributors**: 146
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 63 · **Closed issues**: 21 · **Open issues**: 57 · **Commits**: 191050
+- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 65 · **Closed issues**: 21 · **Open issues**: 58 · **Commits**: 191402
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 43 | 6 | 30 | 1 |
-| last60d | 2026-08-21 | 0 | 1 | 55 | 16 | 35 | 42 |
-| 90d | 2026-07-22 | 0 | 1 | 62 | 18 | 41 | 226 |
-| last180d | 2026-04-23 | 0 | 1 | 63 | 21 | 57 | 992 |
-| 360d | 2025-10-25 | 0 | 1 | 63 | 21 | 57 | 1786 |
-| last720d | 2024-10-30 | 0 | 1 | 63 | 21 | 57 | 5670 |
+| 30d | 2026-09-21 | 0 | 0 | 41 | 5 | 31 | 7 |
+| last60d | 2026-08-22 | 0 | 1 | 57 | 16 | 36 | 349 |
+| 90d | 2026-07-23 | 0 | 1 | 64 | 18 | 41 | 552 |
+| last180d | 2026-04-24 | 0 | 1 | 65 | 21 | 58 | 1322 |
+| 360d | 2025-10-26 | 0 | 1 | 65 | 21 | 58 | 2117 |
+| last720d | 2024-10-31 | 0 | 1 | 65 | 21 | 58 | 6008 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for mysql-server lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:17:45Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:15:16Z._
