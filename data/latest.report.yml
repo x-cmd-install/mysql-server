@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:07:52Z
+  collectedAt: 2026-10-30T06:01:30Z
 timeline:
   created: 2014-09-26
   lastCommit: 2026-10-27
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 12486
-  watcher: 550
-  fork: 4452
+  star: 12491
+  watcher: 549
+  fork: 4471
   release: 0
   contributor: 146
   pullRequest: 776
@@ -70,63 +70,63 @@ language:
 totalBytes: 407213610
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 0
     openPR: 33
     closedIssue: 0
-    openIssue: 32
+    openIssue: 30
     commit: 4
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 0
     openPR: 61
-    closedIssue: 16
+    closedIssue: 14
     openIssue: 39
     commit: 309
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
     mergedPR: 1
-    openPR: 69
-    closedIssue: 18
+    openPR: 68
+    closedIssue: 17
     openIssue: 44
     commit: 524
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
     mergedPR: 1
-    openPR: 70
+    openPR: 69
     closedIssue: 22
     openIssue: 60
     commit: 1298
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 0
     mergedPR: 1
-    openPR: 70
+    openPR: 69
     closedIssue: 22
     openIssue: 60
     commit: 2109
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 0
     mergedPR: 1
-    openPR: 70
+    openPR: 69
     closedIssue: 22
     openIssue: 60
-    commit: 5950
+    commit: 5936
 total:
   release: 0
   mergedPR: 1
-  openPR: 70
+  openPR: 69
   closedIssue: 22
   openIssue: 60
   commit: 191406
 ---
 path: /home/runner/.x-repo/github.com/mysql/mysql-server
-collectedAt: 2026-10-29T06:15:42Z
+collectedAt: 2026-10-30T06:09:03Z
 loc:
   Cpp:
     code: 2742467
